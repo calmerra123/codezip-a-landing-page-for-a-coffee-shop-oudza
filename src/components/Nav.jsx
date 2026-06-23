@@ -11,7 +11,7 @@ export default function Nav() {
 
   return (
     <nav className={`nav${scrolled ? ' scrolled' : ''}`}>
-      <div className="nav-logo">Ember<span>&</span>Oak</div>
+      <div className="nav-logo">Avis<span>&</span>Coffe</div>
       <ul className="nav-links">
         <li><a href="#about">Our Story</a></li>
         <li><a href="#menu">Menu</a></li>

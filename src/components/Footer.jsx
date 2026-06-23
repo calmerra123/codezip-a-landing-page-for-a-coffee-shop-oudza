@@ -3,7 +3,7 @@ export default function Footer() {
     <footer className="footer" id="contact">
       <div className="footer-inner">
         <div>
-          <div className="footer-brand-name">Ember<span>&</span>Oak</div>
+          <div className="footer-brand-name">Avis<span>&</span>Coffe</div>
           <p className="footer-desc">
             A craft coffee house in Portland's Pearl District. Open daily from
             7 am until the last cup is poured.
@@ -20,7 +20,7 @@ export default function Footer() {
             <li><a href="#">124 NW 11th Ave</a></li>
             <li><a href="#">Portland, OR 97209</a></li>
             <li><a href="#">(503) 555-0182</a></li>
-            <li><a href="#">hello@emberandoak.co</a></li>
+            <li><a href="#">hello@aviscoffe.co</a></li>
           </ul>
         </div>
         <div className="footer-col">
@@ -43,7 +43,7 @@ export default function Footer() {
         </div>
       </div>
       <div className="footer-bottom">
-        <span>© 2025 Ember & Oak Coffee. All rights reserved.</span>
+        <span>© 2025 Avis Coffe Coffee. All rights reserved.</span>
         <span><a href="#">Privacy Policy</a> · <a href="#">Terms</a></span>
       </div>
     </footer>

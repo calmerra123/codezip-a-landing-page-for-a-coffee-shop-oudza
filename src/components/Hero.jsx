@@ -7,7 +7,7 @@ export default function Hero() {
         <span className="hero-eyebrow">☕ Specialty Coffee · Downtown Portland</span>
         <h1>Where Every Cup<br />Tells a <em>Story</em></h1>
         <p>
-          Ember & Oak is a neighbourhood café rooted in craft, warmth, and the
+          Avis Coffe is a neighbourhood café rooted in craft, warmth, and the
           quiet ritual of a perfectly pulled espresso. Come as you are.
         </p>
         <div className="hero-actions">

@@ -17,7 +17,7 @@ export default function About() {
         <span className="about-tag">Our Story</span>
         <h2>Rooted in Craft,<br />Brewed with <em>Heart</em></h2>
         <p>
-          Ember & Oak was born in 2012 from a converted Victorian corner store in
+          Avis Coffe was born in 2012 from a converted Victorian corner store in
           Portland's Pearl District. Founders Nora Callahan and James Osei wanted a
           café that felt less like a pit stop and more like a living room — a place
           where the coffee never tastes rushed.
